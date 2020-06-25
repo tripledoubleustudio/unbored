@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/unbored/static/css/main.bd1f14d2.chunk.css",
+    "main.js": "/unbored/static/js/main.1195d5c4.chunk.js",
+    "main.js.map": "/unbored/static/js/main.1195d5c4.chunk.js.map",
+    "runtime-main.js": "/unbored/static/js/runtime-main.95a24c94.js",
+    "runtime-main.js.map": "/unbored/static/js/runtime-main.95a24c94.js.map",
+    "static/js/2.18fce486.chunk.js": "/unbored/static/js/2.18fce486.chunk.js",
+    "static/js/2.18fce486.chunk.js.map": "/unbored/static/js/2.18fce486.chunk.js.map",
+    "index.html": "/unbored/index.html",
+    "precache-manifest.8fca9ab777eba4c1f08eb20c0a693ff3.js": "/unbored/precache-manifest.8fca9ab777eba4c1f08eb20c0a693ff3.js",
+    "service-worker.js": "/unbored/service-worker.js",
+    "static/css/main.bd1f14d2.chunk.css.map": "/unbored/static/css/main.bd1f14d2.chunk.css.map",
+    "static/js/2.18fce486.chunk.js.LICENSE.txt": "/unbored/static/js/2.18fce486.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95a24c94.js",
+    "static/js/2.18fce486.chunk.js",
+    "static/css/main.bd1f14d2.chunk.css",
+    "static/js/main.1195d5c4.chunk.js"
+  ]
+}
